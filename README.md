@@ -31,7 +31,7 @@
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Languages & Outils :</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs & Oᴜᴛɪʟs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -59,7 +59,7 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Trophées Github 🏆</h2>
+<h2 align="center">🏆 Tʀᴏᴘʜéᴇs Gɪᴛʜᴜʙ 🏆</h2>
 <p align="center">
   <a href="https://github.com/Sriguru95">
     <picture>
@@ -72,7 +72,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Github statistiques 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ sᴛᴀᴛɪsᴛɪǫᴜᴇs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -115,7 +115,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs ᴇɴ ɢʀᴀᴘʜᴇ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriguru95&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
@@ -123,7 +123,7 @@
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Pᴇɴséᴇ ᴅᴜ Jᴏᴜʀ 🌟</h2>
 
 
 <!--STARTS_HERE_QUOTE_CARD-->
@@ -134,7 +134,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Rᴇsᴛᴏɴs ᴇɴ ᴄᴏɴᴛᴀᴄᴛ! 🤝 </h2>
 <div align="center">
   
 <a href="mailto:sriguruelumalai@gmail.com" target="_blank">
