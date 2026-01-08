@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Je suis étudiant en 2ème année de master Informatique à l'Université Paris Cité, un passionné de la programmation, de Machine Learning et de Réseaux avec un grand amour pour Java, Python, React.js, Node.js, SQL, l'API REST et la visualisation de données. </p>
+<p align="left">Diplomé d'un master Informatique à l'Université Paris Cité, un passionné de la programmation, de Machine Learning et de Réseaux avec un grand amour pour Java, Python, React.js, Node.js, SQL, l'API REST et la visualisation de données. </p>
 
 - ✨ Étudiant de la vie :)
 - 🌱 J'apprends actuellement beaucoup de choses, je crois que chaque jour est une opportunité d'apprentissage.
